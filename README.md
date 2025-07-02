@@ -1,4 +1,4 @@
-# MViTDepth
+# LDiffDepth
 
 This is the reference PyTorch implementation for training and testing depth estimation models using the method described in
 
@@ -80,9 +80,9 @@ The encoder_mobilevit means the backbone network of MobileViTv1
 
 | Name |    Encoder    |
 | :--: | :-----------: |
-| xxs  | MobileViT_xxs |
-|  xs  | MobileViT_xs  |
-|  s   |  MobileViT_s  |
+| xxs  | LDiffDepth_xxs |
+|  xs  | LDiffDepth_xs  |
+|  s   |  LDiffDepth_s  |
 
 
 
